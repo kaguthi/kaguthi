@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaguthi
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Node.js, javascript
+- 🌱 I’m currently learning Node.js, javascript, typescript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ... peterkaguathi873@gmail.com
 
